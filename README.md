@@ -5,9 +5,14 @@
     <title>Mi ubicación GPS</title>
     <style>
       body {
-        background-color: powderblue; }
-      h1 { color: red; }
-      p { color: blue; }
+        background-color: powderblue; 
+      }
+      h1 { 
+        color: red; 
+      }
+      p { 
+        color: blue; 
+      }
     </style>
   </head>
   <body>
@@ -29,4 +34,4 @@
     </script>
   </body>
 </html>
-![image](https://user-images.githubusercontent.com/57737682/219979157-9894e309-1e0a-4683-9c29-8263ef0aaf70.png)
+
