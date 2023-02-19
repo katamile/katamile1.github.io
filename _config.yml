@@ -1,0 +1,2 @@
+theme: jekyll-theme-minimal
+title: Pagina de ejemplo
