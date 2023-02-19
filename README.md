@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Ejemplo con CSS interno y geolocalización</title>
+    <title>Mi ubicación GPS</title>
     <style>
       h1 {
         color: red;
@@ -38,8 +38,8 @@
     </script>
   </head>
   <body onload="getLocation()">
-    <h1>Título de la página</h1>
-    <p>Este es un párrafo de ejemplo</p>
+    <h1>Qué es el GPS</h1>
+    <p> El Sistema de Posicionamiento Global (GPS)</p>
     <p>Ubicación: <span id="location"></span></p>
   </body>
 </html>
