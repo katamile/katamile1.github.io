@@ -4,14 +4,15 @@
     <meta charset="UTF-8">
     <title>Mi ubicación GPS</title>
     <style>
-      body {background-color: powderblue;}
-      h1 {color: red;}
-      p {color: blue;}
+      body {
+        background-color: powderblue; }
+      h1 { color: red; }
+      p { color: blue; }
     </style>
   </head>
   <body>
     <h1>Qué es el GPS</h1>
-    <p> El Sistema de Posicionamiento Global (GPS</p>
+    <p> El Sistema de Posicionamiento Global (GPS)</p>
     <h1 id="location">Cargando ubicación...</h1>
     <script>
       if (navigator.geolocation) {
