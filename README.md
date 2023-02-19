@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <style type="text/css">
     <meta charset="UTF-8">
     <title>Mi ubicación GPS</title>
     <style>
